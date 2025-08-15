@@ -1,7 +1,7 @@
 # FashionGAN: AI Powered Clothing Design Generator
 
 
-![teaser](clothing-gan-thumbnail.gif)
+![teaser](FashionGAN-thumbnail.gif)
 
 
 ## Inspiration
